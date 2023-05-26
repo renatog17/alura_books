@@ -1,6 +1,6 @@
 # Learning React
 
-This repository serves as my learning playground for React. Here, I am exploring various concepts and techniques related to React development. 
+This repository serves as my learning environment for React. Here, I am exploring various concepts and techniques related to React development.
 
 ## Topics Covered
 
